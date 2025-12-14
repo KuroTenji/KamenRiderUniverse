@@ -17,9 +17,10 @@ section {
   box-sizing: border-box;
 }
 
-h1, h2, h3, p {
+h1, h2, h3, p{
   margin: 0 0 15px 0;
 }
+
 
 header {
   position: fixed;
